@@ -2,6 +2,15 @@
 
 ⚽️ Official APK releases for the Qemer app — formulating smart football insights, match analysis, and predictions.
 
+## ✨ Features
+- 🏠 **Home** — latest football news, recent match results & fixtures, league tables for Europe's top 3 leagues
+- 📡 **Feed** — live results, upcoming fixtures, and real-time match updates
+- 📅 **Fixtures & Results** — full match results and upcoming fixtures across multiple leagues
+- 🔮 **Predictions** — user-submitted match predictions with a top tipster/predictor leaderboard
+- 🏆 **Scoring & Ranking** — predictors are scored on accuracy after final results and ranked accordingly
+- 📚 **Season Archive** — browse previous seasons' league data
+- 👥 **Community** — post football discussions, follow other users, like and engage with posts
+
 ## 📲 Download
 Grab the latest APK from the [Releases](../../releases) page.
 
